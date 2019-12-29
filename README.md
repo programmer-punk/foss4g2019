@@ -2,7 +2,7 @@
 
 A compilation of all presentations/slides of various talks from FOSS4G 2019 Bucharest shared via twitter. If you know link to any slides/presentation form FOSS4g 2019, please free to contribute missing slides either as a pull request or by shouting out on twitter [@programmerpunk](https://www.twitter.com/@programmerpunk)
 
-:pencil2: This page is currently in update mode. Please check back for future updating of this list. If you found any link is broken or need updation, please inform us. 
+:pencil2: This page is currently in update mode. Please check back for future updating of this list. If you found any link is broken or need updation, please inform us.
 
 ## Labs - Exercises
 - [A comprehensive introduction to awesome QGIS](https://github.com/iungurianu/FOSS4G2019_Lab) by [Ionut Ungurianu](https://twitter.com/IonutUngurianu)
@@ -10,6 +10,7 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 
 ## Workshops - Tutorials
+- [introduction to OSGeo- OSGeo 101](https://github.com/GISMentors/osgeo-101) by 
 - [OSGeoLive Workshops](https://trac.osgeo.org/osgeolive/wiki/Live_GIS_Workshop_Install) by [Astrid Emde](https://www.twitter.com/astroidex)
 
 - [Workshop and tutorial materials for solaris](https://github.com/CosmiQ/solaris_tutorials) by [Nick Weir](https://www.twitter.com/@NickWeir09)
@@ -28,12 +29,19 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Geopaparazzi: never out of data in the field](https://github.com/moovida/Workshops-Foss4g2019/releases/tag/geopaparazzi-workshop) by Andrea Antonello
 
-- [Explore UK Crime Data with Pandas and GeoPandas](https://github.com/IBMDeveloperUK/foss4g-geopandas) by Margriet Groenendijk 
+- [Explore UK Crime Data with Pandas and GeoPandas](https://github.com/IBMDeveloperUK/foss4g-geopandas) by Margriet Groenendijk
+
+- [PostgreSQL/PostGIS for beginners](https://github.com/astroidex/foss4g-2019-workshop-postgresql-postgis-for-beginners-aemde/blob/master/foss4g-2019-workshop-postgresql-postgis-for-beginners-aemde.md) by [Astrid Emde
+](https://twitter.com/astroidex)
+
+- [Building your own CesiumJS map, made easy with TerriaJS](https://github.com/TerriaJS/foss4g2019/tree/mobx-foss4g-bucharest/workshop) by Stephen Davies
 
 - .. Add your workshop
 
 
-## Presentations - Academic Track
+## Presentations
+
+- Sponsor keynote: [Using GPU-acceleration to Interact with Geotemporal Data at Planet-Scale](https://speakerdeck.com/omnisci/foss4g-using-gpu-acceleration-to-interact-with-geotemporal-data-at-planet-scale) by [Aaron Williams](https://www.linkedin.com/in/aaronwilliams/)
 
 - [State of QGIS - Behind the Scene QGIS](https://docs.google.com/presentation/d/1D6WAnmH-1O448HlUiFaDmMoPnTR4EqDf2BHcQl5a4ZM/edit#slide=id.p) by [Andreas Neumann](https://www.twitter.com/AndiNeum)
 
@@ -91,5 +99,20 @@ A compilation of all presentations/slides of various talks from FOSS4G 2019 Buch
 
 - [Reconsidering Default. Why default parameters matter and how to make them meaningful](https://docs.google.com/presentation/d/12a_7AoYidL6aO2Gy6QmZ_F45VN7fx72gvbelQO6j3rI/edit?usp=sharing) by [Mykola Kozyr](https://twitter.com/MykolaKozyr)
 
-- ... add your slides/presentation.
+- [Kia Ora: Our Learnings from FOSS4G SotM Oceania](https://docs.google.com/presentation/d/155qPky_VV3YHqHqQUpirluNZ1XNXJlqTFP1Qp-YbZEg) by [Edoardo Neerhut](https://twitter.com/eneerhut), [Adam Steer](https://twitter.com/adamdsteer), [Alex Leith](https://twitter.com/alexgleith), and [John Bryant](https://twitter.com/mammothmapping)
 
+- [Finding Sasquatch or how to fake a moon landing](https://github.com/sparkgeo/FOSS4G/tree/master/FOSS4G2019/sasquatch) by James Banting
+
+- [The return of Crazy Data - Amazon Forest Fires](https://github.com/mirandadam/fires) by Mirandadam
+
+- [Lizmap to create Web Map Applications](https://github.com/mdouchin/foss4g-2019-lizmap-web-client) by Michaël DOUCHIN
+
+- [Offline viewing and editing Geographic Information for Forest Fire Defense](https://github.com/mdouchin/foss4g-2019-offline-data-editing-geopoppy/blob/master/2019-08-29_Michael_Douchin_Foss4G_2019_offline_data_editing_geopoppy.pdf) by MICHAËL DOUCHIN
+
+- [Design and development of the UN Vector Tile Toolkit](https://github.com/un-vector-tile-toolkit/bucharest-paper-drafts/blob/master/presentation/Fujimura_et_al_Design_and_Development_of%20the_UN_Vector_Tile_Toolkit.pdf) by Hidenori Fujimura
+
+- [Creating Wallonia's new very high resolution land cover maps: combining GRASS GIS OBIA and OTB pixel-based results](https://github.com/savmickael/foss4G-2019)
+by Moritz Lennert
+
+
+- ... add your slides/presentation.
